@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "websocket": "^1.0.35"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "client": "node client.js"
+  }
+}
