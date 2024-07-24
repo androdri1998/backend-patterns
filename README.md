@@ -9,6 +9,7 @@ just a simple repository to practice backend patterns
 | Request/response         | [Solution](/request-response/)          |
 | Asynchronous/Synchronous | [Solution](/asynchrounous-synchronous/) |
 | Push                     | [Solution](/push/)                      |
+| Polling                  | [Solution](/polling/)                   |
 
 ## inspiration
 
