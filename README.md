@@ -10,6 +10,7 @@ just a simple repository to practice backend patterns
 | Asynchronous/Synchronous | [Solution](/asynchrounous-synchronous/) |
 | Push                     | [Solution](/push/)                      |
 | Polling                  | [Solution](/polling/)                   |
+| Long Polling             | [Solution](/long-polling/)              |
 
 ## inspiration
 
