@@ -1,0 +1,15 @@
+{
+  "name": "server-sent-events",
+  "version": "1.0.0",
+  "description": "It's a backend pattern que allow receive continuous data after only one request.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
